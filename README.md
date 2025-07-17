@@ -15,3 +15,9 @@ streamlit run app.py
 
 App will run on port 8501
 
+<img width="814" height="512" alt="image" src="https://github.com/user-attachments/assets/52d33b37-7ee3-43b1-a7d4-8f4862c63527" />
+
+<img width="796" height="648" alt="image" src="https://github.com/user-attachments/assets/2ffe46ab-a44a-452f-b8c2-aa2accdbdaf3" />
+
+
+
