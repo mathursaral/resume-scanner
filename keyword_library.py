@@ -10,5 +10,11 @@ job_keywords = {
     "project manager": [
         "project planning", "risk management", "agile", "scrum",
         "jira", "stakeholder", "budget", "timeline", "reporting", "kanban"
+    ],
+    "scrum master": [
+        "scrum", "agile", "sprint planning", "daily stand-up", "retrospective",
+        "sprint review", "product backlog", "scrum ceremonies", "impediment removal",
+        "servant leadership", "scrum artifacts", "scrum roles", "jira", "kanban",
+        "agile coaching", "velocity", "burn-down chart", "safe", "team facilitation"
     ]
 }
